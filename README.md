@@ -8,4 +8,4 @@ Resume of the files:
 - little_project.html: A small project about data exploration I did at the beginning of the course "Statistical Computation and Visualization" at EPFL.
 - Financial Big Data (folder): Homeworks and assignments I did for the course "Financial Big Data" at EPFL. Particularly interesting is 10_covariance_cleaning_comparison.ipynb, where I also use some Portfolio Optimisation's techniques.
 - Statistical Machine Learning (folder): Homeworks and assignments I did, together with a colleague, for the course "Statistical Learning" at UC3M.
-
+- Stochastic_Simulation_Project.pdf: A project I did, together with a colleague, for the course "Stochastic Simulation" at EPFL.
