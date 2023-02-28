@@ -9,5 +9,5 @@ Resume of the files:
 - Financial_Big_Data_project.pdf: A project I did, together with a colleague, for the course "Financial Big Data" at EPFL. The title is "RFSV Forecasting with
 High-Frequency Data"
 - Statistical Machine Learning (folder): Homeworks and assignments I did, together with a colleague, for the course "Statistical Learning" at UC3M.
-- Stochastic_Simulation_Project.pdf: A project I did, together with a colleague, for the course "Stochastic Simulation" at EPFL.
-- Regression Methods.pdf: A project I did, together with a colleague, for the course "Regression Methods" at EPFL. The title is "Multi-Level Monte Carlo methods for option pricing"
+- Stochastic_Simulation_Project.pdf: A project I did, together with a colleague, for the course "Stochastic Simulation" at EPFL. The title is "Multi-Level Monte Carlo methods for option pricing"
+- Regression Methods.pdf: A project I did, together with a colleague, for the course "Regression Methods" at EPFL.
